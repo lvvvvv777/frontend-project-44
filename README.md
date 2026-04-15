@@ -4,17 +4,16 @@
  
  ### brain-even 
 
- [ ! [brain-even demo] (https://asciinema.org/a/fbqSGbNruX7vj3Tb.svg)] (https://asciinema.org/a/fbqSGbNruX7vj3Tb)
+ [ ! [brain-even demo] [![asciicast](https://asciinema.org/a/fbqSGbNruX7vj3Tb.svg)](https://asciinema.org/a/fbqSGbNruX7vj3Tb)
   
 ### brain-calc
 
- [ ! [brain-calc demo] (https://asciinema.org/a/KrXw53gvLzI9eOPU.svg)] (https://asciinema.org/a/KrXw53gvLzI9eOPU)
+ [ ! [brain-calc demo] [![asciicast](https://asciinema.org/a/KrXw53gvLzI9eOPU.svg)](https://asciinema.org/a/KrXw53gvLzI9eOPU)
  0
 
  ### brain-gcd
 
-[ ! [brain-gcd demo] (https://asciinema.org/a/miCj6QtJCj0mC0Uk)] (https://asciinema.org/a/miCj6QtJCj0mC0Uk)
-
+[ ! [brain-gcd demo] [![asciicast](https://asciinema.org/a/miCj6QtJCj0mC0Uk.svg)](https://asciinema.org/a/miCj6QtJCj0mC0Uk)
  ### brain-progression
 
  [ ! [brain-progression demo] [![asciicast](https://asciinema.org/a/UTihbqjKclLkzzD2.svg)](https://asciinema.org/a/UTihbqjKclLkzzD2)
