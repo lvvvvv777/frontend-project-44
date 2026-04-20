@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
-import { runGreet } from '../src/cli.js';
 
 const name =  runGreet ();
 
