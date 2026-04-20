@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
 
-const name =  runGreet ();
+import { getName } from '../src/cli.js';
+
+const name = getName();
 
 console.log('Answer "yes" if the number is even, otherwise answer "no".');
 
@@ -28,3 +30,4 @@ const runGame = () => {
 };
 
 runGame();
+
