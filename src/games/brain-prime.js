@@ -7,7 +7,7 @@ const isPrime = (num) => {
     if (num % i === 0) return false
   }
   return true
-};
+}
 const getRoundData = () => {
   const number = Math.floor(Math.random() * 100)
   const correctAnswer = isPrime(number) ? 'yes' : 'no'

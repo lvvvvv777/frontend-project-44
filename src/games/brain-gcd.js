@@ -9,5 +9,5 @@ const getRoundData = () => {
   const correctAnswer = String(gcd(num1, num2))
 
   return [question, correctAnswer]
-};
+}
 export default () => runGame(description, getRoundData)

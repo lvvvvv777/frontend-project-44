@@ -12,13 +12,14 @@ const runGame = (description, getRoundData) => {
     const userAnswer = readlineSync.question('Your answer: ')
     if (userAnswer === correctAnswer) {
       console.log('Correct!')
-    } else {
+    }
+    else {
       // Вот здесь часто ошибка в кавычках. Должно быть так:
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
       console.log(`Let's try again, ${name}!`)
-      return;
+      return
     }
   }
   console.log(`Congratulations, ${name}!`)
 }
-export default runGame;
+export default runGame
